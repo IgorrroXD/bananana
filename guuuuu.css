@@ -1,0 +1,36 @@
+
+
+#jeden {
+background-color: rgba(255, 255, 56, 0.966);
+border-radius: 100cm;
+float: none;
+
+}
+#dwa {
+    background-color: royalblue;
+    border-radius: 800px;
+    float: right;
+}
+#trzy{
+    background-color: darkorange;
+    border-radius: 100px;
+    float: left;
+}
+#kapibara:hover{
+width: 100000000000px;
+transition: 10000s;
+
+}
+
+#kapibara{
+width: 300px;
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+   font-size: 350px; 
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
